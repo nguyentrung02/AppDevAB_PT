@@ -1,7 +1,7 @@
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-
+#include<stdlib.h>
 // in a header file, usually we put following information:
 //		1. constant definitions
 //		2. data structure definitions
